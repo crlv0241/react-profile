@@ -1,9 +1,10 @@
+import React from "react";
+import AboutUsPage from "./pages/aboutUsPage";
 function App() {
   return (
     <div className="App">
-      <h1>Carlito</h1>
+      <AboutUsPage />
     </div>
   );
 }
-
 export default App;
